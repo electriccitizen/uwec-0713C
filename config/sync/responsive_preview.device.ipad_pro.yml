@@ -1,9 +1,9 @@
-uuid: 7553c769-506a-4817-98db-1d891e431c0c
+uuid: e5748953-5515-4321-b0aa-5b55c5926565
 langcode: en
 status: 1
 dependencies: {  }
 _core:
-  default_config_hash: WkfALUufHRuU_ik38XpFYlZ9k7izDl3pHjNiBbPNESc
+  default_config_hash: 0BTDwkTcnti33rSDN2e0kXhvtxme1U5HUbq2pim9-so
 id: ipad_pro
 label: 'iPad Pro'
 weight: -7

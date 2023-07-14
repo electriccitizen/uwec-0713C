@@ -1,11 +1,11 @@
-uuid: 9a9a136d-2114-44b5-85ed-8defa9507bef
+uuid: 5085ed8d-21f0-4d95-bc1f-3e51991089af
 langcode: en
 status: true
 dependencies:
   module:
     - media
 _core:
-  default_config_hash: riwOVeHCJYgqBVJndUzpyYKNeOAtcMp1rAyc6gwUm9E
+  default_config_hash: BS1S6diZoPuruKD0FCQ2CdiKDxYwCVTBqxb-wbuNfzU
 id: media_unpublish_action
 label: 'Unpublish media'
 type: media

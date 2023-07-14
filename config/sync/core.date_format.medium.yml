@@ -1,9 +1,9 @@
-uuid: 14d79282-49d6-4025-b538-094c26395a4c
+uuid: e3e135a3-ef9e-4448-bf9d-abfc50c13714
 langcode: en
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: JnuEB2OCUV0mnnp8aPMkxeyTXYvMi00SsizF5eV3KZU
+  default_config_hash: Ru8t0wVGnBNkJ0K0zDMY3WFyIeVElKb8OO5m1NMu9S4
 id: medium
 label: 'Default medium date'
 locked: false

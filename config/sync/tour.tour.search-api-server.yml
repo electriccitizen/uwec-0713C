@@ -1,11 +1,11 @@
-uuid: 5ff02c2c-b11d-4c9e-9ee3-9a3ec16e1ec6
+uuid: 9427c095-b79e-48f2-94fb-218f27c05baf
 langcode: en
 status: true
 dependencies:
   module:
     - search_api
 _core:
-  default_config_hash: E_tDbES4daBlhoi6vnYdEms2merfLzQkEan0A6pqjOs
+  default_config_hash: emDgqkOvsrHkUaRU7iTbeb-ChptodcHh9sRA_gtUppg
 id: search-api-server
 label: 'Information about a server'
 module: search_api

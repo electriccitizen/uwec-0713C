@@ -1,9 +1,9 @@
-uuid: f2168b5a-41d1-416b-9054-5082e5b90ea8
+uuid: 1f6b8fe5-b272-44f3-b45e-5c6e68c119b7
 langcode: en
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: gPeLwjS8J_Forkn5NgoaINvIcMcwuPb-AcY3E88LZ10
+  default_config_hash: kh_ofVuGiqwCuWgRqGI3QIDYMEevFm-LslZnnavojTY
 id: default
 label: default
 date_format: 'D, M j Y'
